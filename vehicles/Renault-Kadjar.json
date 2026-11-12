@@ -1,0 +1,1 @@
+{"id":"Renault-Kadjar","make":"Renault","model":"Kadjar","source":"https://github.com/OBDb/Renault-Kadjar","updated":"2026-01-29T20:14:50Z","signalsets":{"default.json":{"commands":[{"hdr":"743","cmd":{"22":"0207"},"freq":2,"signals":[{"id":"KADJAR_ODO","path":"Trips","fmt":{"len":24,"max":16777215,"unit":"kilometers"},"name":"Odometer","suggestedMetric":"odometer"}]}]}}}
